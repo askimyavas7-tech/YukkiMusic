@@ -75,7 +75,7 @@ go build -o app ./cmd/app
 
 ### ☁️ Heroku Deployment
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheTeamVivek/YukkiMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/askimyavas7-tech/YukkiMusic)
 
 1. Click the **“Deploy to Heroku”** button above.  
 2. Fill in all required **environment variables**.  
@@ -110,8 +110,8 @@ All settings are managed using a `.env` file or environment variables.
 | `DURATION_LIMIT` | Maximum track duration in seconds. | `4200` (70 minutes) |
 | `QUEUE_LIMIT` | Maximum queue size per chat. | `7` |
 | `START_IMG_URL` | Start image URL for `/start` message. | [Default Image](https://raw.githubusercontent.com/Vivekkumar-IN/assets/master/images.png) |
-| `SUPPORT_CHAT` | Support group link. | [@TheTeamVk](https://t.me/TheTeamVk) |
-| `SUPPORT_CHANNEL` | Update channel link. | [@TheTeamVivek](https://t.me/TheTeamVivek) |
+| `SUPPORT_CHAT` | Support group link. | [PRENSES](https://t.me/yasamakbuysa) |
+| `SUPPORT_CHANNEL` | Update channel link. | [PRENSES](https://t.me/yasamakbuysa) |
 | `COOKIES_LINK` | `batbin.me` link to `yt-dlp` cookies file. |  |
 | `SET_CMDS` | Set bot commands automatically on startup. | `false` |
 | `MAX_AUTH_USERS` | Max number of authorized users per chat. | `25` |
@@ -137,7 +137,7 @@ You can also open an [issue](https://github.com/TheTeamVivek/YukkiMusic/issues/n
 
 ## ❤️ Support
 
-💬 **Telegram:** [@TheTeamVk](https://t.me/TheTeamVk)  
+💬 **Telegram:** [PRENSES](https://t.me/yasamakbuysa)  
 📂 **GitHub Issues:** [Report a Problem](https://github.com/TheTeamVivek/YukkiMusic/issues/new)
 
 ---
