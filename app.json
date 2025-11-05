@@ -73,12 +73,12 @@
     },
     "SUPPORT_CHAT": {
       "description": "The URL of your support chat.",
-      "value": "https://t.me/TheTeamVk",
+      "value": "https://t.me/yasamakbuysa",
       "required": false
     },
     "SUPPORT_CHANNEL": {
       "description": "The URL of your support channel.",
-      "value": "https://t.me/TheTeamVivek",
+      "value": "https://t.me/yasamakbuysa",
       "required": false
     },
     "COOKIES_LINK": {
